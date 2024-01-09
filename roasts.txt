@@ -1,0 +1,51 @@
+Short: 365home
+Name: 365 Hometown Blend Whole Bean
+Description: 365 by Whole Foods Market, Coffee Hometown Blend Whole Bean 24 Ounce
+Link: https://amzn.to/3Qng27Q
+Store: Amazon, Whole Foods
+Price: $12.57
+Format: Whole Bean
+Purchase Date: 2023-05-07
+Rating: 5.0
+Rating Description: Light/Medium Roast, good flavor and balanced. Best mass-produced coffee I've had.
+Size: 24 ounces
+
+Short: hdbrkfst
+Name: Harry & David Breakfast Blend
+Description: Harry & David Breakfast Blend 4oz Ground Coffee
+Link: https://www.ebay.com/itm/334947444703
+Store: Dollar Tree
+Price: $1.25
+Format: Ground
+Purchase Date: 2023-06-01
+Rating: 1.0
+Rating Description: Tastes like Maxwell House's discard pile
+Size: 4 ounces
+
+Short: tchibomorning
+Name: Tchibo Röst Frisch Morning Blend
+Description: Tchibo Röst Frisch Morning Blend 12oz Ground Coffee
+Link: https://tchibo.us/products/morning-blend
+Store: Ollie's
+Price: $3.99
+Format: Ground
+Purchase Date: 2023-03-01
+Rating: 5.0
+Rating Description: Good flavor, balanced, and smooth. Best coffee I've had from a discount store. Long shelf life, even though it's ground.
+Size: 12 ounces
+
+Short: sunbanquet
+Name: Banquet: A Winter Blend
+Description: Sunergos Coffee Banquet: A Winter Blend
+Store: Sunergos Coffee
+Price: $12.00
+Purchase Date: 2023-12-20
+Rating: 5.0
+
+Short: suncyesha
+Name: Rwanda Cyesha
+Description: Sunergos Coffee Rwanda Cyesha
+Store: Sunergos Coffee
+Price: $15.00
+Purchase Date: 2023-12-20
+Rating: 5.0

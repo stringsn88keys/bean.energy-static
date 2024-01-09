@@ -1,0 +1,17 @@
+Short: aeropress
+Name: Aeropress
+Description: Aeropress Original Coffee Press – 3 in 1 brew method combines French Press, Pourover, Espresso - Full bodied, smooth coffee without grit, bitterness - Small portable coffee maker for camping & travel
+Link: https://amzn.to/3KqoyPY
+Purchase Date: 2020-02-15
+Price: $29.95
+Rating: 5.0
+Rating Description: Best and most compact coffee maker
+
+Short: aeropress_filters
+Name: Aeropress Filters
+Description: AeroPress Replacement Filters, 2 Pack (700 Count)
+Link: https://amzn.to/3KqoyPY
+Purchase Date: 2020-02-15
+Price: $14.95
+Rating: 5.0
+Rating Description: the paper filters are somewhat reusable, but they have far less waste than if you were using a basket filter
